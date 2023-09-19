@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @exaltpawarikanda
-- 👀 I’m interested in Data Structures & Algorithms, JVM Languages,Spring Framework,Cloud Infrastructure & AI
-- 🌱 I’m currently learning Data Structures & Algorithms, AWS & Azure
+- 🌱 Full-stack Developer [Backend: Java, Spring boot    Front-end: Angular, Typescript  Mobile-apps: Flutter, Dart]
 - 💞️ I’m looking to collaborate on these technologies
 - 📫 Reach me on my email: exaltpawa@gmail.com
 
