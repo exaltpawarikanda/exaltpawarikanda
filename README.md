@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @exaltpawarikanda
 - 🌱 Full-stack Developer
-    -Backend: Java, Spring boot
-    -Front-end: Angular, Typescript
-    -Mobile-apps: Flutter, Dart
+    * Backend: Java, Spring boot
+    * Front-end: Angular, Typescript
+    * Mobile-apps: Flutter, Dart
 - 📫 Reach me on my email: exaltpawa@gmail.com
 
 <!---
