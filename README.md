@@ -2,7 +2,7 @@
 - 🌱 Full-stack Developer
     * Backend: Java, Spring boot
     * Front-end: Angular, Typescript
-    * Mobile-apps: Flutter, Dart
+    * Mobile-apps: Flutter, Dart, Ionic
 - 📫 Reach me on my email: exaltpawa@gmail.com
 
 <!---
